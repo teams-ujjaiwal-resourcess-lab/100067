@@ -1,6 +1,6 @@
-flask
+Flask
 flask-caching
 requests
 pycryptodome
-gunicorn
 protobuf
+colorama
